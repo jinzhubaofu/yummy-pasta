@@ -7,5 +7,5 @@ before_script:
   - git submodule update --init --recursive
 env:
   global:
-  - secure: ! 'Pu2W4rZhaZiJUay75kkoCGObCR0pzolGDZjTQahjzcUc+oTutoyWJMHVQJ/uO3mdo7aBxJWaRFPGdn3gQFGP7bGuGasBA4EnH/iJE1mYMh3jlxJsYR4B4TWv8U9mwqJleGWb1pQkQa8++uewXYIYH5ex70VE1nsgfq9t+0U5cIc='
-  - secure: ! 'IczxL/pV/StvTzM9PiQmqj5JqyQapVBFthda5JdALgl9/y65n7YhtOFVNmD1xL06HgtIBKiL62qlW0T+Jl4RAP/SbPOsDLKVgxrZJDQ77sL7arMQyPjSlb88S7V4rbCioqY9cEcyg8eRaldScCsmuAlprmgifcVJtd2aS8+CYi8='
+  - secure: "LBeFP7Zzzf7H6epvCVAAZdRCK48rtQPF31w1gMJJxKYDqV3tLYWDnLu+PPOEM1kG12pNi1rxHORs2biqkbkaWYQb+PLx7tWh/f2ZgKFaWhCCB6jdY/i/xNw4juXXx+Sq2aq+f3Cd94dF9qey+Ph+O8hht4CHZVW43Y4xIf6wZaA="
+  - secure: "iJXOxM3HjnAh0T6UmgR3gd5aZ7yR8ohtU0XBOeHAEmuei1GrbBcS1tsqo+7XvgPPppnCqv0PYOopAHLID1ebZVOfpsFob3j4fd/p0iuusE5YJt7krEFrrAT9oKEYvPI6d4qs6Jh1gtC8lK3XnBcmxBewLPMQL8yc7LBcYJUamm8="
